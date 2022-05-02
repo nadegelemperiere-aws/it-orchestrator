@@ -1,0 +1,17 @@
+version: v1.19.0
+ignore:
+  SNYK-PYTHON-IPADDRESS-1041793:
+    - 'ipaddress@1.0.23':
+        reason: No available patch
+        expires: 2030-03-11T00:00:00.000Z
+        created: 2022-03-11T18:24:00.000Z
+  SNYK-PYTHON-IPADDRESS-1290073:
+    - 'ipaddress@1.0.23':
+        reason: No available patch
+        expires: 2030-03-11T00:00:00.000Z
+        created: 2022-03-11T18:24:00.000Z
+  SNYK-PYTHON-IPADDRESS-590065:
+    - 'ipaddress@1.0.23':
+        reason: No available patch
+        expires: 2030-03-11T00:00:00.000Z
+        created: 2022-03-11T18:24:00.000Z

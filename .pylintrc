@@ -1,0 +1,2 @@
+[MESSAGES CONTROL]
+disable=import-error, wrong-import-position, broad-except, too-many-instance-attributes, R0912
